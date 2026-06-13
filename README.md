@@ -1,8 +1,8 @@
 # Hi, I'm Jim 🌟
-My goal in simple terms is to bring out smiles 😁 in people and companies through Tech 💻 to make the world 🌍 a better place to live in.
+I'm a junior **Software Developer** who's passionate about creating software applications by building practical and impactful solutions, solving real world problems.
 
 # 💫 About Me:
-🔭 I’m currently a **Software Engineering Student**<br>🌱 I’m currently learning **Python**<br>💬 Ask me about **Programming**<br>⚡ Fun fact is that **I prefer working and studying when everyone is asleep.**
+🔭 I’m a **Software Engineering** bootcamp graduate<br>🌱 I’m currently strengthening my knowledge in _HTML_, _CSS_ and _JS_ <br>⚡ Fun fact is that **I prefer working and studying when everyone is asleep.**
 
 
 ## 🌐 Socials:
