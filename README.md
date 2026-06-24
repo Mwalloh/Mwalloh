@@ -4,7 +4,8 @@
 🧠 I’m a Junior Software Engineer and Developer<br>
 👯 I’m currently strengthening my JavaScript knowledge<br>
 🤝 Always happy to connect<br>
-🎥 I make videos about coding on [TikTok(Jim)](https://tiktok.com/@mwall0h)
+🎥 I make videos about coding on [TikTok(Jim)](https://tiktok.com/@mwall0h)<br>
+📑 Portfolio: [My Portfolio](https://mwalloh.github.io/MyPortfolio/)
 
 
 ## 🌐 Socials:
