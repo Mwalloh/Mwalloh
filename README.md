@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jim 🌟</h1>
 <h3 align="center">A passionate Junior Software Developer and Engineer</h3>
 
-- 🔭 I’m currently working on on '**GlobeTrotter - a simple web application that allows you to view specific data about a specific country, including those of its neighbors.**'
+- 🔭 I’m currently working on '**GlobeTrotter - a simple web application that allows you to view specific data about a specific country, including those of its neighbors.**'
 
 - 🌱 I’m currently strengthening my knowledge on **JavaScript**
 
