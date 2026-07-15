@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on '**GlobeTrotter - a simple web application that allows you to view specific data about a specific country, including those of its neighbors.**'
 
-- 🌱 I’m currently strengthening my knowledge on **JavaScript**
+- 🌱 I’m currently strengthening my knowledge on **React**
 
 - 📝 I regularly teach web development on [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mwall0h)
 
